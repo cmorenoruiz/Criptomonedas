@@ -238,7 +238,7 @@ ___
 
 * **DeFi**: Decentralized Finance [https://builtin.com/finance/defi-decentralized-finance](https://builtin.com/finance/defi-decentralized-finance)
 * **Web3 browser**: navegador capaz de acceder a dApps, carteras y mercados de criptomonedas, servicios de DeFi… Te conectarías a los servicios a través de tu cartera. Como en [este juego](https://splinterlands.com/):  
-![login_Splinterlands.png](./login_Splinterlands.png)
+![login_Splinterlands.png](./img/login_Splinterlands.png)
 
 ___
 
